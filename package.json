@@ -1,0 +1,17 @@
+{
+  "name": "them4-keybinder",
+  "productName": "SA:MP Keybinder",
+  "version": "0.1.0",
+  "main": "main.js",
+  "dependencies": {
+    "robotjs": "^0.5.1"
+},
+"scripts": {
+  "start": "electron ."
+},
+  "devDependencies": {
+  "electron": "^1.4.3",
+  "electron-packager": "^8.1.0"
+  }
+  
+ }
